@@ -6,4 +6,4 @@ export DATABASE_URL_WITH_SCHEMA=${DATABASE_URL}"?schema="${SCHEMA}
 echo "DATABASE_URL_WITH_SCHEMA=$DATABASE_URL_WITH_SCHEMA"
 echo "`date -u` e n d configure-database-schema"
 
-exit 0
+#exit 0
